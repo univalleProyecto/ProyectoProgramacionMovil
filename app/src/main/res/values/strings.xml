@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">War</string>
+    <string name="nombre">Nombre</string>
+    <string name="vida">Vida:</string>
+    <string name="descripcion">Descripcion:</string>
+    <string name="genero">Genero:</string>
+    <string name="crear">Crear</string>
+    <string name="genero_hombre">hombre</string>
+    <string name="genero_mujer">mujer</string>
+    <string name="insercion_personaje_fallo">Error al guardar el personaje</string>
+    <string name="insercion_personaje_exito">Personaje guardado</string>
+    <string name="datos_ejemplo">Insertar datos de ejemplo</string>
+    <string name="borrar_todos">Borrar todos los personajes</string>
+    <string name="accion_guardar">guardar</string>
+    <string name="accion_eliminar">eliminar</string>
+    <string name="titulo_texto_vacio">Esto esta un poco vacio....</string>
+    <string name="subtitulo_lista_vacia">Comienza agregando un personaje</string>
+    <string name="titulo_editar_personaje">Editar Personaje</string>
+</resources>

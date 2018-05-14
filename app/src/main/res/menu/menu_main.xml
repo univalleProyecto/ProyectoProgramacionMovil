@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/accion_insertar_datos_ejemplo"
+        android:title="@string/datos_ejemplo"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/accion_borrar_todos_personajes"
+        android:title="@string/borrar_todos"
+        app:showAsAction="never" />
+</menu>
